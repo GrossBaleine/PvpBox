@@ -1,0 +1,9 @@
+main: launcher.PvpBox
+name: PvpBox
+version: 3.0
+author: Linkdu40
+commands:
+    gm:
+    kit:
+    stats:
+    team:
